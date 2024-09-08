@@ -1,11 +1,13 @@
 # Bizarro_Dune_Dashboards
 
 
-ETH Dashboard(https://dune.com/james0227/james)
-![image](https://github.com/user-attachments/assets/78a336e6-2750-4fc5-a456-ecfca59007fe)
+[ETH Dashboard](https://dune.com/james0227/james)
+![image](https://github.com/user-attachments/assets/26316d16-93cf-4b85-89fa-5d55cb4ecd1f)
 
 
 
-DMT Dashboard(https://dune.com/james0227/bizzaro-dream-machine)
-![image](https://github.com/user-attachments/assets/957a151e-51a6-410e-a111-76cbe9520b5a)
+
+[DMT Dashboard](https://dune.com/james0227/bizzaro-dream-machine)
+![image](https://github.com/user-attachments/assets/bcbe6756-da2b-4d7d-b210-1c66306398ec)
+
 
